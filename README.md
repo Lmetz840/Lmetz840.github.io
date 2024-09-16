@@ -1,12 +1,18 @@
-# Lmetz840.github.io
-About Me IT 105 Project
-
 # Lauren Metzger
-Hobbies
+### Historical Archaeology & Museum Studies, Juniata College
 
-|   Lacrosse   |  Reading  |  Plant Mom  |  Traveling  |
-|-------------|------|--------|--------|
-| Lauren is a Senior defender on the Juniata womens Lacrosse team | Lauren loves to read. Her favorite genres are fantasy and Historical Fiction| Lauren has a large collection of houseplants including a large Monstera that lives in her Pink apartment with her.| Lauren enjoys spending her summer traveling and hopes to eventually visit all of the US National Parks|
+## Biography
+I am a Senior at Juniata College studying Historical Archaeology and Museum Studies. When I have free time I am playing lacrosse with the rest of the Juniata Womens Lacrosse team or working in the JC CRI Lab. When not in class or on the field, I enjoy reading, traveling, and listening to music. 
 
+## Personal Statement
+Undergraduate student-athlete pursuing her degree in archaeology while trying not to catch senior-itis.
 
+## Academic Interests
+* Historical Archaeology
+  * French and Indian War archaeolofy
+  * Revolutionary War Archaeology
+*Museum Studies
 
+## Research Interests
+Within the field of Archaelogy my research interests include:
+    *
