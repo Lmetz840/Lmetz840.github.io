@@ -2,11 +2,11 @@
 About Me IT 105 Project
 
 # Lauren Metzger
-{% rowheaders %}
+Hobbies
 
 |   Lacrosse   |  Reading  |  Plant Mom  |  Traveling  |
 |-------------|------|--------|--------|
-|Lauren is on the Juniata womens Lacrosse team  | Octo | Tuxedo | Tiger  |
-|She plays defnse| Yes  | No     | No     |
+|Lauren is a Senior defender on the Juniata womens Lacrosse team | Lauren loves to read. Her favorite genres are fantasy and Hostorical Fiction| Tuxedo | Tiger  |
 
-{% endrowheaders %}
+
+
